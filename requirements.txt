@@ -239,7 +239,7 @@ tzlocal==5.2
 unstructured==0.12.5
 unstructured-client==0.22.0
 uritemplate==4.1.1
-urllib3==1.26.18
+urllib3==1.26.19
 uvicorn==0.27.1
 validators==0.28.3
 watchfiles==0.22.0
