@@ -8,5 +8,8 @@
 
 >A fully featured version of Langflow can be accessed via HuggingFace spaces with no installation required.
 
-## Run Langflow
+#### Run Langflow
     langflow run
+
+## Docker Installation
+    docker run -it --rm -p 7860:7860 langflowai/langflow:latest
