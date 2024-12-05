@@ -105,7 +105,7 @@ langchain==0.1.20
 langchain-anthropic==0.1.13
 langchain-community==0.0.38
 langchain-core==0.1.52
-langchain-experimental==0.0.58
+langchain-experimental==0.0.61
 langchain-google-genai==0.0.6
 langchain-openai==0.0.6
 langchain-pinecone==0.1.1
